@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefanycoxe
 - 👀 I’m interested in teaching and research on applied statistical analysis 
-- 🌱 I’m currently learning a lot of things! R, markdown, Playposit, Perusall
+- 🌱 I’m currently learning a lot of things! R markdown, Playposit, Perusall, always more R
 - 💞️ I’m looking to collaborate on projects on data visualization and categorical outcomes
 - 📫 How to reach me: scoxe [AT] fiu [DOT] edu
 
