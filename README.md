@@ -2,7 +2,7 @@
 - 👀 I’m interested in teaching and research on applied statistical methods, especially in the behavioral sciences 
 - 🌱 I’m currently learning a lot of things! R markdown, Quarto, Playposit, Perusall, always more R
 - 💞️ I’m looking to collaborate on projects on data visualization and/or categorical outcomes
-- 📫 How to reach me: scoxe [AT] fiu [DOT] edu
+- 📫 How to reach me: istefany [AT] gmail [DOT] com
 - 🦣 Find me on <a rel="me" href="https://fosstodon.org/@stefany">Mastodon</a>
 
 <!---
