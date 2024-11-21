@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of things! R markdown, Quarto, Playposit, Perusall, always more R
 - 💞️ I’m looking to collaborate on projects on data visualization and/or categorical outcomes
 - 📫 How to reach me: istefany [AT] gmail [DOT] com
-- 🦣 Find me on <a rel="me" href="https://fosstodon.org/@stefany">Mastodon</a>
+- 🦣 Find me on <a href="https://bsky.app/profile/drstefanyc.bsky.social">Bluesky</a> or <a rel="me" href="https://fosstodon.org/@stefany">Mastodon</a>
 
 <!---
 stefanycoxe/stefanycoxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
